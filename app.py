@@ -31,7 +31,7 @@ def update_data(filtered_df):
     return filtered_df
 
 # Update and display data
-while True:
+if st.button('Update Data'):
     filtered_df = update_data(filtered_df)
     
     avg_age = np.mean(filtered_df['age_new'])
@@ -56,4 +56,3 @@ while True:
         
         st.markdown("### Detailed Data View")
         st.dataframe(filtered_df)
-    st.experimental_rerun()
