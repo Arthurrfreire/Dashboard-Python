@@ -33,7 +33,6 @@ def update_data(filtered_df):
 # Update and display data
 if st.button('Update Data'):
     filtered_df = update_data(filtered_df)
-    
     avg_age = np.mean(filtered_df['age_new'])
     count_married = int(filtered_df[(filtered_df["marital"] == 'married')]['marital'].count())
     balance = np.mean(filtered_df['balance_new'])
