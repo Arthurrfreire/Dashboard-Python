@@ -51,15 +51,15 @@ Este painel interativo em tempo real oferece uma visão dinâmica e atualizada d
 
 ## Componentes do Painel
 
-**Filtro de Profissão:** Permite selecionar a profissão para análise.
+   - **Filtro de Profissão:** Permite selecionar a profissão para análise.
 
-**Métricas-Chave:** Exibe a média de idade, número de casados e saldo médio por conta.
+   - **Métricas-Chave:** Exibe a média de idade, número de casados e saldo médio por conta.
 
-**Gráfico de Mapa de Calor:** Mostra a distribuição de idade por estado civil.
+   - **Gráfico de Mapa de Calor:** Mostra a distribuição de idade por estado civil.
 
-**Histograma:** Apresenta a distribuição das idades.
+   - **Histograma:** Apresenta a distribuição das idades.
 
-**Tabela de Dados:** Detalhes dos dados filtrados por profissão.
+   - **Tabela de Dados:** Detalhes dos dados filtrados por profissão.
 
 ## Dependências
 
