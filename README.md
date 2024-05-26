@@ -1,5 +1,6 @@
 # Painel de Dados em Tempo Real para Ciência de Dados
 
+![](https://i.imgur.com/QCJbLu3.png)
 
 Este painel interativo em tempo real oferece uma visão dinâmica e atualizada de dados relacionados a marketing bancário. Ele permite explorar e analisar informações sobre clientes, como idade, estado civil, saldo de conta e profissão.
 
